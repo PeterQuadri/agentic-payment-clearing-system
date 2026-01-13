@@ -1,0 +1,47 @@
+[
+  {
+    "transaction_id": "TXN_1001",
+    "sender_id": "USER_001",
+    "receiver_id": "MERCHANT_001",
+    "amount": 15000,
+    "currency": "NGN",
+    "timestamp": "2025-12-14T10:30:00Z",
+    "description": "Purchase electronics"
+  },
+  {
+    "transaction_id": "TXN_1002",
+    "sender_id": "USER_002",
+    "receiver_id": "MERCHANT_003",
+    "amount": 25000,
+    "currency": "NGN",
+    "timestamp": "2025-12-14T11:00:00Z",
+    "description": "Fashion purchase"
+  },
+  {
+    "transaction_id": "TXN_1003",
+    "sender_id": "USER_003",
+    "receiver_id": "MERCHANT_002",
+    "amount": 7000,
+    "currency": "NGN",
+    "timestamp": "2025-12-14T11:30:00Z",
+    "description": "Groceries"
+  },
+  {
+    "transaction_id": "TXN_1004",
+    "sender_id": "USER_001",
+    "receiver_id": "MERCHANT_003",
+    "amount": 90000,
+    "currency": "NGN",
+    "timestamp": "2025-12-14T12:00:00Z",
+    "description": "Large purchase"
+  },
+  {
+    "transaction_id": "TXN_1005",
+    "sender_id": "USER_002",
+    "receiver_id": "MERCHANT_888",
+    "amount": 10000,
+    "currency": "NGN",
+    "timestamp": "2025-12-14T12:30:00Z",
+    "description": "Tech accessories"
+  }
+]

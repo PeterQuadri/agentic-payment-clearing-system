@@ -1,0 +1,82 @@
+[
+    {
+        "transaction_id": "TXN_0991",
+        "sender_id": "USER_001",
+        "receiver_id": "MERCHANT_002",
+        "amount": 20000,
+        "timestamp": "2025-12-13T10:00:00Z",
+        "status": "APPROVED"
+    },
+    {
+        "transaction_id": "TXN_0992",
+        "sender_id": "USER_001",
+        "receiver_id": "MERCHANT_003",
+        "amount": 5000,
+        "timestamp": "2025-12-13T11:00:00Z",
+        "status": "APPROVED"
+    },
+    {
+        "transaction_id": "TXN_0993",
+        "sender_id": "USER_002",
+        "receiver_id": "MERCHANT_001",
+        "amount": 10000,
+        "timestamp": "2025-12-13T12:00:00Z",
+        "status": "REJECTED"
+    },
+    {
+        "transaction_id": "TXN_0994",
+        "sender_id": "USER_003",
+        "receiver_id": "MERCHANT_003",
+        "amount": 5000,
+        "timestamp": "2025-12-13T13:00:00Z",
+        "status": "APPROVED"
+    },
+    {
+        "transaction_id": "TXN_0995",
+        "sender_id": "USER_001",
+        "receiver_id": "MERCHANT_001",
+        "amount": 15000,
+        "timestamp": "2025-12-13T14:00:00Z",
+        "status": "APPROVED"
+    },
+    {
+        "transaction_id": "TXN_0996",
+        "sender_id": "USER_002",
+        "receiver_id": "MERCHANT_002",
+        "amount": 5000,
+        "timestamp": "2025-12-13T15:00:00Z",
+        "status": "APPROVED"
+    },
+    {
+        "transaction_id": "TXN_0997",
+        "sender_id": "USER_003",
+        "receiver_id": "MERCHANT_001",
+        "amount": 2000,
+        "timestamp": "2025-12-13T16:00:00Z",
+        "status": "APPROVED"
+    },
+    {
+        "transaction_id": "TXN_0998",
+        "sender_id": "USER_001",
+        "receiver_id": "MERCHANT_003",
+        "amount": 50000,
+        "timestamp": "2025-12-13T18:45:00Z",
+        "status": "REJECTED"
+    },
+    {
+        "transaction_id": "TXN_0999",
+        "sender_id": "USER_002",
+        "receiver_id": "MERCHANT_003",
+        "amount": 15000,
+        "timestamp": "2025-12-13T19:00:00Z",
+        "status": "APPROVED"
+    },
+    {
+        "transaction_id": "TXN_1000",
+        "sender_id": "USER_003",
+        "receiver_id": "MERCHANT_002",
+        "amount": 5000,
+        "timestamp": "2025-12-13T20:00:00Z",
+        "status": "APPROVED"
+    }
+]

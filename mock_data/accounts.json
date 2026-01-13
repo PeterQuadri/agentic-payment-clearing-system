@@ -1,0 +1,38 @@
+[
+    {
+        "account_id": "USER_001",
+        "name": "Alice Johnson",
+        "balance": 35000,
+        "status": "ACTIVE"
+    },
+    {
+        "account_id": "USER_002",
+        "name": "Bob Smith",
+        "balance": 20000,
+        "status": "ACTIVE"
+    },
+    {
+        "account_id": "USER_003",
+        "name": "Carol Lee",
+        "balance": 3000,
+        "status": "ACTIVE"
+    },
+    {
+        "account_id": "MERCHANT_001",
+        "name": "Tech Mart",
+        "balance": 265000,
+        "status": "ACTIVE"
+    },
+    {
+        "account_id": "MERCHANT_002",
+        "name": "Fashion Hub",
+        "balance": 157000,
+        "status": "ACTIVE"
+    },
+    {
+        "account_id": "MERCHANT_888",
+        "name": "Grocery Store",
+        "balance": 80000,
+        "status": "ACTIVE"
+    }
+]

@@ -1,0 +1,11 @@
+{
+    "max_transaction_amount": 100000,
+    "blacklisted_accounts": [
+        "USER_999",
+        "MERCHANT_888"
+    ],
+    "allowed_currencies": [
+        "NGN",
+        "USD"
+    ]
+}
